@@ -1,3 +1,6 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
+using ExercicioAspNET.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
